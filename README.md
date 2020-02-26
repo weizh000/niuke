@@ -1,2 +1,2 @@
 # niuke
-This project contains python practical code and contact questions
+This project contains python practical code and exercises.
